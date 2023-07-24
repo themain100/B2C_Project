@@ -57,7 +57,7 @@
     <div class="centered-content">
         <div class="content">
             <!-- 페이지별 내용 추가 -->
-            <h2>Welcome to the B2C.</h2>
+            <h2>Welcome to the B2C111.</h2>
             <p>This is the local community book lending service.</p>
             <object data="/resource/img/logo.svg" type="image/svg+xml">
             <!-- fallback content, SVG를 지원하지 않는 브라우저를 위한 대체 콘텐츠 -->
