@@ -14,8 +14,7 @@
 <meta charset="UTF-8">
 <title>B2C - Local Community Book Rental.</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link rel="stylesheet" type="text/css" href="/templates/css/default.css">
+<link rel="stylesheet" type="text/css" href="/css/default.css">
 <script
 	src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
 <script
